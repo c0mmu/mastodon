@@ -2,13 +2,13 @@
 # important settings can be changed from the admin interface.
 
 defaults: &defaults
-  site_title: Whippy Edition
+  site_title: The legacy of Monte'Rose
   site_short_description: ''
   site_description: ''
   site_extended_description: ''
   site_terms: ''
   site_contact_username: 'notice'
-  site_contact_email: 'whippyshou@gmail.com'
+  site_contact_email: 'montrose.s.legacy@gmail.com'
   registrations_mode: 'open'
   profile_directory: true
   closed_registrations_message: ''
