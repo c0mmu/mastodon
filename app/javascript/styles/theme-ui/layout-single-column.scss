@@ -10,21 +10,21 @@
   --color-column: rgba(0, 0, 0, 0.4);
   
   --color-brand-twitter: #1d9bf0;
-  --color-brand-twitter-bg: #15202b;
-  --color-brand-twitter-dim: #8b98a5;
-  --color-brand-twitter-mud: #273340;
-  --color-brand-twitter-dark: #232543;
+  --color-brand-twitter-bg: #22152b;
+  --color-brand-twitter-dim: #988ba5;
+  --color-brand-twitter-mud: #332740;
+  --color-brand-twitter-dark: #341f33;
   --color-brand-twitter-threaded-line: #425364;
 
   --color-brand-mastodon: #8a3d88;
   --color-brand-mastodon-links: #aa76a9;
 
   --color-brand-mastodon-bg: #1e2028;
-  --color-brand-mastodon-dim: #717c9b;
-  --color-brand-mastodon-mud: rgb(39 44 64 / .5);
-  --color-brand-mastodon-dark: #232543;
+  --color-brand-mastodon-dim: #89719b;
+  --color-brand-mastodon-mud: rgb(51 39 64 / .5);
+  --color-brand-mastodon-dark: #341f33;
   --color-brand-mastodon-threaded-line: #434264;
-  --color-brand-mastodon-text-light: #8493a7;
+  --color-brand-mastodon-text-light: #9584a7;
 
 
 
@@ -34,7 +34,7 @@
   --color-bg: var(--color-brand-mastodon-bg);
   --color-bg-75: #1e2028bf;
   --color-fg: #fff;
-  --color-border: #38384d;
+  --color-border: #40384d;
   --color-dim: var(--color-brand-mastodon-dim);
 
   --color-accent:  #aa76a9;
@@ -70,11 +70,11 @@
   --color-hashtag: var(--color-accent);
   --color-mention: var(--color-accent);
   --color-link: var(--color-accent);
-  --color-bg-compose-form: rgb(39 44 64 / .4);
-  --color-bg-compose-form-focus: rgb(39 44 64 / .8);
+  --color-bg-compose-form: rgb(51 39 64 / .4);
+  --color-bg-compose-form-focus: rgb(51 39 64 / .8);
 
   /* In the original UI this color is lighten($ui-base-color, 12%) */
-  --color-outer-space: #42485a;
+  --color-outer-space: #4d425a;
 
   /* Font related */
   --font-size: 15px;
